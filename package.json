@@ -1,0 +1,34 @@
+{
+  "name": "todo-list-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indifferentghost/todo-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indifferentghost/todo-list/issues"
+  },
+  "homepage": "https://github.com/indifferentghost/todo-list#readme",
+  "dependencies": {
+    "@koa/cors": "^4.0.0",
+    "@koa/router": "^12.0.0",
+    "cross-env": "^7.0.3",
+    "koa": "^2.13.4",
+    "nodemon": "^2.0.20",
+    "npm-run-all": "^4.1.5"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.13.5",
+    "@types/koa__cors": "^3.3.0",
+    "@types/koa__router": "^12.0.0",
+    "@types/node": "^18.11.9"
+  }
+}
